@@ -1,1 +1,1 @@
-# **Grape Disease Identification using Deep Learning 🍇🍷💻** 
+# **Grape Disease Detection using Deep Learning 🍇:ambulance:💻** 
