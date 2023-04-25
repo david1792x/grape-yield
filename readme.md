@@ -6,7 +6,7 @@
 
 <div align="center">
 
-|  <img src='images/merlot_2.jpg' height="300">                     | <img src='images/wine_2.jpg' height="300">  |
+|  <img src='images/merlot_2.jpg' height="250">                     | <img src='images/wine_2.jpg' height="250">  |
 |:----------------------------------------------------------------------:|:------------------------------------: |
 | ***Figure 1.**  Clusters of Merlot grapes*                       | ***Figure 2.**  A bottle and glass of wine* |
 
