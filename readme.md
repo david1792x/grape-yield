@@ -16,7 +16,7 @@ There are many wine producing regions in the world, with some of the most notabl
 
 <div align="center">
 
-|  <img src='images/valle_location.jpg' height="250">                     | <img src='images/la_cetto.jpg' height="250">  |
+|  <img src='images/valle_location.jpg' height="250">                     | <img src='images/el_cielo.jpg' height="250">  |
 |:----------------------------------------------------------------------:|:------------------------------------: |
 | ***Figure 3.**  Location of Valle de Guadalupe*                       | ***Figure 4.**  A vineyard in Valle de Guadalupe (L.A. Cetto)* |
 
