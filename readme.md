@@ -1,4 +1,4 @@
-# **Grape Variety Classification using Deep Learning 🍇:ambulance:💻** 
+# **Grape Variety Classification using Deep Learning 🍇💻** 
 
 ## **Introduction**
 
