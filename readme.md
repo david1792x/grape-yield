@@ -6,9 +6,9 @@
 
 <div align="center">
 
-|  <img src='images/mapimage.jpeg' width="575">                     |<img src='images/county_location_2.png' height="438">                              |
+|  <img src='images/merlot.jpeg' width="575">                     |<img src='images/wine.png' height="438">                              |
 |:----------------------------------------------------------------------:|:---------------------------------------------------------------------------------:|
-| ***Figure 1.**  San Diego County in Google Maps*                        | ***Figure 2.** Location of San Diego County*                        |
+| ***Figure 1.**  A cluster of *                        | ***Figure 2.** A glass of red wine*                        |
 
 </div>
 
