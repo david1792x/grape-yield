@@ -1,4 +1,4 @@
-# **Grape Variety Classification using Deep Learning 🍇💻** 
+# **Grape Disease Detection using Deep Learning 🍇:ambulance:💻** 
 
 ## **Introduction**
 
@@ -22,7 +22,15 @@ There are many wine producing regions in the world, with some of the most notabl
 
 </div>
 
-Grape disease and its impact
+In recent years, some types of **viruses** have been affecting vineyards with disease in Valle de Guadalupe, combined with an increased presence of **vine mealybugs** in this area, forming a new vector of disease among the valley. The three most notable diseases present in Valle de Guadalupe are **Pierce's disease, red blotch disease** and **grapevine leafroll disease**. These diseases are notable since they affect the vine's **leaf**, changing its color in different ways. These diseases affect the harvest of grape, since they **reduce yield amount**, cause **uneven ripening** and **change the internal chemical structure** of the grape, resulting in **impactful losses** in the production of wine in vineyards where these diseases are present.
+
+<div align="center">
+
+|  <img src='images/pierce.PNG' width="250">                     | <img src='images/red_blotch.PNG' width="250">  | <img src='images/leafroll.png' width="250"> |
+|:----------------------------------------------------------------------:|:------------------------------------: |:-------:|
+| ***Figure 5.**  Pierce's disease*                       | ***Figure 6.**  Red blotch disease* | ***Figure 7.**  Grapevine leafroll disease* |
+
+</div>
 
 ## **Project overview**
 
