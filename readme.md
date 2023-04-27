@@ -26,7 +26,7 @@ In recent years, some types of **viruses** have been affecting vineyards with di
 
 <div align="center">
 
-|  <img src='images/pierce.PNG' width="250">                     | <img src='images/red_blotch.PNG' width="250">  | <img src='images/leafroll.png' width="250"> |
+|  <img src='images/pierce.PNG' height="250">                     | <img src='images/red_blotch.PNG' height="250">  | <img src='images/leafroll.png' height="250"> |
 |:----------------------------------------------------------------------:|:------------------------------------: |:-------:|
 | ***Figure 5.**  Pierce's disease*                       | ***Figure 6.**  Red blotch disease* | ***Figure 7.**  Grapevine leafroll disease* |
 
