@@ -1,4 +1,4 @@
-# **Grapevine Yield Estimation using Deep Learning 🍇💻** 
+# **Grapevine Yield and Ripeness Estimation using Deep Learning 🍇💻** 
 
 ## **Introduction**
 
