@@ -1,4 +1,4 @@
-# **Grape Disease Detection using Deep Learning 🍇:ambulance:💻** 
+# **Grapevine Segmentation using Deep Learning 🍇💻** 
 
 ## **Introduction**
 
